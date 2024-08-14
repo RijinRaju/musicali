@@ -10,3 +10,6 @@ app/.cache/
 
 # Ignore data directory
 data/
+
+# ignore the frontend
+frontend/
